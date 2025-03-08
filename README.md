@@ -7,7 +7,7 @@ A passionate and results-oriented aspiring software developer interested in Full
 ## Skills
 
 * *Programming Languages:* Java, Python, JavaScript
-* *Technologies/Frameworks:* React, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SQL
+* *Technologies/Frameworks:* React, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SQL, JDBC
 * *Tools:* Git, Conda
 
 ## Project
