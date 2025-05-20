@@ -8,9 +8,9 @@ A passionate and results-oriented aspiring software developer interested in Full
 
 * *Programming Languages:* Java, Python, JavaScript
 * *Technologies/Frameworks:* React, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SQL, JDBC, Servlet, Spring, Springboot
-* *Tools:* Git, Conda, Maven
+* *Tools:* Git, Conda, Maven, Docker
 
-## ![](https://skillicons.dev/icons?i=python,java,javascript,mysql,react,git,maven,spring)
+## ![](https://skillicons.dev/icons?i=python,java,javascript,mysql,react,git,maven,spring,docker,spring-boot)
 
 ## Project
 
