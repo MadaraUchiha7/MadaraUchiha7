@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadaraUchiha7&show_icons=true)](https://github.com/MadaraUchiha7)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazi-Parvez-Ali-Tech&show_icons=true)](https://github.com/Kazi-Parvez-Ali-Tech)
 
 A passionate and results-oriented aspiring software developer interested in Full Stack and AI.  I will love to enjoy tackling challenging problems and building innovative solutions.  I'm always eager to learn and explore new technologies.
 
